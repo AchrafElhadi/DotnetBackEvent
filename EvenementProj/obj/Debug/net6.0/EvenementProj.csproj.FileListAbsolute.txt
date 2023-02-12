@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\VoitureAPi2\VoitureAPi2\obj\Debug\net6.0\EvenementProj.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\VoitureAPi2\VoitureAPi2\obj\Debug\net6.0\EvenementProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\VoitureAPi2\VoitureAPi2\obj\Debug\net6.0\EvenementProj.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\VoitureAPi2\VoitureAPi2\obj\Debug\net6.0\EvenementProj.AssemblyInfo.cs
+C:\Users\user\source\repos\VoitureAPi2\VoitureAPi2\obj\Debug\net6.0\EvenementProj.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\VoitureAPi2\VoitureAPi2\obj\Debug\net6.0\EvenementProj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\VoitureAPi2\VoitureAPi2\obj\Debug\net6.0\EvenementProj.MvcApplicationPartsAssemblyInfo.cache
